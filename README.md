@@ -1,2 +1,2 @@
 # soils
-Metabolomics analysis of soils collected throughout the USA
+Metabolomics analysis of selected soils collected throughout the USA through the University of Oklahoma Citizen Science Soil Collection Program (https://whatsinyourbackyard.org/).
