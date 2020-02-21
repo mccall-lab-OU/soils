@@ -1,0 +1,262 @@
+filename	ATTRIBUTE_preparation_batch	ATTRIBUTE_City_Collection	ATTRIBUTE_State_Collection	ATTRIBUTE_Zip	ATTRIBUTE_Hypocrea.pachybasioides.positive	ATTRIBUTE_Ophiocordyceps.heteropoda.positive	ATTRIBUTE_tested.against.T..cruzi	ATTRIBUTE_Activity.against.T..cruzi	ATTRIBUTE_NOAA_ClimateRegions
+P35_D6_no_yes_no_unknown.mzXML	1	Hoover	AL	35216	no_Hypocrea	yes_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P35_G11_no_no_no_unknown.mzXML	1	Pinson	AL	35216	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P35_G12_no_no_no_unknown.mzXML	1	Birmingham	AL	35216	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P37_F2_no_yes_no_unknown.mzXML	2	Ardmore	AL	35739	no_Hypocrea	yes_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P37_F3_no_no_no_unknown.mzXML	2	Ardmore	AL	35739	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P37_F4_no_no_no_unknown.mzXML	2	Ardmore	AL	35739	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P37_F5_no_no_no_unknown.mzXML	2	Ardmore	AL	35739	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P37_G1_no_no_no_unknown.mzXML	2	Vestavia Hills	AL	35216	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+blank_end.mzXML	blank	blank	blank	blank	blank	blank	blank	blank	blank
+blank_end_190919230324.mzXML	blank	blank	blank	blank	blank	blank	blank	blank	blank
+blank_mid.mzXML	blank	blank	blank	blank	blank	blank	blank	blank	blank
+blank_mid_190918094228.mzXML	blank	blank	blank	blank	blank	blank	blank	blank	blank
+blank_mid_190918130120.mzXML	blank	blank	blank	blank	blank	blank	blank	blank	blank
+blank_mid_190918160650.mzXML	blank	blank	blank	blank	blank	blank	blank	blank	blank
+blank_mid_190918191227.mzXML	blank	blank	blank	blank	blank	blank	blank	blank	blank
+blank_mid_190919110634.mzXML	blank	blank	blank	blank	blank	blank	blank	blank	blank
+blank_mid_190919141205.mzXML	blank	blank	blank	blank	blank	blank	blank	blank	blank
+P35_D7_no_no_no_unknown.mzXML	1	Citrus Heights	CA	95610	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P35_E4_no_yes_yes_yes.mzXML	1	Rio Linda	CA	95673	no_Hypocrea	yes_Ophiocordyceps	Yes_testingTc	yes_activityTc	West
+P35_H12_no_no_no_unknown.mzXML	1	Rancho Cordova	CA	95670	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_A12_no_no_no_unknown_190919175727.mzXML	2	Rio Linda	CA	95673	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_A4_no_no_no_unknown.mzXML	2	Citrus Heights	CA	95610	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_B10_no_no_no_unknown.mzXML	2	Ladera Ranch	CA	92694	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_B11_no_no_no_unknown.mzXML	2	Ladera Ranch	CA	92694	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_B12_no_no_no_unknown_190919215641.mzXML	2	Ladera Ranch	CA	92694	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_B8_no_no_no_unknown.mzXML	2	Ladera Ranch	CA	92694	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_B9_no_no_no_unknown.mzXML	2	Ladera Ranch	CA	92694	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_C1_no_no_no_unknown.mzXML	2	Ladera Ranch	CA	92694	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_C10_no_no_no_unknown.mzXML	2	Ladera Ranch	CA	92694	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_C11_no_no_no_unknown.mzXML	2	Ladera Ranch	CA	92694	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_C12_no_no_no_unknown.mzXML	2	Ladera Ranch	CA	92694	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_C2_no_no_no_unknown.mzXML	2	Ladera Ranch	CA	92694	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_C3_no_no_no_unknown.mzXML	2	Ladera Ranch	CA	92694	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_C4_no_no_no_unknown.mzXML	2	Ladera Ranch	CA	92694	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_C5_no_no_no_unknown.mzXML	2	Ladera Ranch	CA	92694	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_C6_no_no_no_unknown.mzXML	2	Ladera Ranch	CA	92694	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_C7_no_no_no_unknown.mzXML	2	San Clemente	CA	92694	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_C8_no_no_no_unknown.mzXML	2	Ladera Ranch	CA	92694	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_C9_no_yes_no_unknown.mzXML	2	Ladera Ranch	CA	92694	no_Hypocrea	yes_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_D1_no_no_no_unknown.mzXML	2	Ladera Ranch	CA	92694	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_D3_no_no_no_unknown_190919201024.mzXML	2	Ladera Ranch	CA	92694	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_D4_no_no_no_unknown.mzXML	2	Ladera Ranch	CA	92694	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_D5_no_no_no_unknown.mzXML	2	Ladera Ranch	CA	92694	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_D6_no_no_no_unknown.mzXML	2	Ladera Ranch	CA	92694	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_D7_no_no_no_unknown.mzXML	2	Ladera Ranch	CA	92694	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_E4_no_no_no_unknown.mzXML	2	Ladera Ranch	CA	92694	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_E5_no_no_no_unknown.mzXML	2	Ladera Ranch	CA	92694	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_E6_no_no_no_unknown.mzXML	2	Ladera Ranch	CA	92694	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_E7_no_no_no_unknown.mzXML	2	Ladera Ranch	CA	92694	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P37_E8_no_no_no_unknown.mzXML	2	Ladera Ranch	CA	92694	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	West
+P35_G4_no_no_no_unknown.mzXML	1	Tampa	FL	33604	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P35_G5_no_yes_no_unknown.mzXML	1	Tampa	FL	33604	no_Hypocrea	yes_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P35_H2_no_no_no_unknown.mzXML	1	Palm Bay	FL	32909	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P37_B4_no_yes_no_unknown.mzXML	2	Palm Bay	FL	32909	no_Hypocrea	yes_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P37_E12_no_yes_no_unknown.mzXML	2	St. Petersburg	FL	33710	no_Hypocrea	yes_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P38_B6_no_no_no_unknown_190919221000.mzXML	2	Saint Petersburg	FL	33710	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P38_B8_no_no_no_unknown_190919214322.mzXML	2	Saint Petersburg	FL	33710	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P35_E11_no_yes_no_unknown.mzXML	1	Thomaston	GA	30286	no_Hypocrea	yes_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P35_E9_no_yes_no_unknown.mzXML	1	Thomaston	GA	30286	no_Hypocrea	yes_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P37_E3_no_no_no_unknown.mzXML	2	Byron	IL	61010	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P37_F11_no_yes_no_unknown.mzXML	2	Byron	IL	61010	no_Hypocrea	yes_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P35_G6_no_no_yes_no.mzXML	1	Blue Springs	MO	64015	no_Hypocrea	no_Ophiocordyceps	Yes_testingTc	no_activityTc	Central
+P35_H11_no_no_no_unknown.mzXML	1	Blue Springs	MO	64014	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P35_H5_no_no_no_unknown.mzXML	1	Blue Springs	MO	64015	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P35_H6_no_no_no_unknown.mzXML	1	Blue Springs	MO	64015	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P35_H7_no_no_no_unknown.mzXML	1	Blue Springs	MO	64015	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P35_H8_no_no_no_unknown.mzXML	1	Blue Springs	MO	64015	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P35_H9_no_yes_no_unknown.mzXML	1	Blue Springs	MO	64015	no_Hypocrea	yes_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P36_A1_no_no_no_unknown_190919182402.mzXML	1	Blue Springs	MO	64015	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P36_A10_no_no_no_unknown.mzXML	1	Blue Springs	MO	64014	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P36_A11_no_no_no_unknown.mzXML	1	Blue Springs	MO	64015	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P36_A12_no_no_no_unknown.mzXML	1	Blue Springs	MO	64014	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P36_A2_no_no_no_unknown.mzXML	1	Blue Springs	MO	64015	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P36_A3_no_no_no_unknown.mzXML	1	Blue Springs	MO	64015	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P36_A4_no_no_no_unknown_190919185036.mzXML	1	Blue Springs	MO	64014	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P36_A5_no_yes_no_unknown.mzXML	1	Blue Springs	MO	64014	no_Hypocrea	yes_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P36_A6_no_no_no_unknown_190919190353.mzXML	1	Blue Springs	MO	64015	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P36_A9_no_no_no_unknown.mzXML	1	Blue Springs	MO	64014	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P36_B1_no_no_no_unknown.mzXML	1	Blue Springs	MO	64015	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P36_B2_no_no_no_unknown.mzXML	1	Blue Springs	MO	64014	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P36_B3_no_no_no_unknown.mzXML	1	Blue Springs	MO	64014	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P36_B4_no_no_no_unknown.mzXML	1	Blue Springs	MO	64014	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P36_B5_no_no_no_unknown.mzXML	1	Blue Springs	MO	64015	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P37_A2_no_no_no_unknown_190919181045.mzXML	2	Blue Springs	MO	64014	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P37_A3_no_yes_no_unknown_190919205016.mzXML	2	Blue Springs	MO	64014	no_Hypocrea	yes_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P37_E10_no_no_no_unknown.mzXML	2	Blue Springs	MO	64015	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P35_D5_no_yes_no_unknown.mzXML	1	Raleigh	NC	27613	no_Hypocrea	yes_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P35_E1_no_no_no_unknown.mzXML	1	Rural Hall	NC	27045	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P35_E2_no_yes_no_unknown.mzXML	1	Rural Hall	NC	27045	no_Hypocrea	yes_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P35_E5_no_no_no_unknown.mzXML	1	Apex	NC	27502	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P35_E6_yes_no_yes_no.mzXML	1	Durham	NC	27707	yes_Hypocrea	no_Ophiocordyceps	Yes_testingTc	no_activityTc	SouthEast
+P37_A6_no_no_no_unknown.mzXML	2	Apex	NC	27502	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P37_A9_no_no_no_unknown.mzXML	2	Durham	NC	27707	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P37_B3_no_yes_no_unknown.mzXML	2	Wilmington	NC	28412	no_Hypocrea	yes_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P37_G10_no_no_no_unknown.mzXML	2	Durham	NC	27707	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P37_H10_no_no_no_unknown.mzXML	2	Wilmington	NC	28412	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P38_A10_no_no_no_unknown_190919193029.mzXML	2	Wilmington	NC	28405	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P38_A3_no_no_no_unknown.mzXML	2	Wilmington	NC	28412	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P38_A4_no_no_no_unknown_190919203658.mzXML	2	Wilmington	NC	28412	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P38_A5_no_yes_no_unknown.mzXML	2	Wilmington	NC	28405	no_Hypocrea	yes_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P38_A6_no_no_no_unknown.mzXML	2	Wilmington	NC	28405	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P38_A7_no_no_no_unknown_190919210333.mzXML	2	Wilmington	NC	28405	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P38_A8_no_no_no_unknown.mzXML	2	Wilmington	NC	28405	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P38_A9_no_no_no_unknown.mzXML	2	Wilmington	NC	28412	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P35_H4_no_yes_no_unknown.mzXML	1	Edison	NJ	8817	no_Hypocrea	yes_Ophiocordyceps	no_testingTc	unknown_activityTc	NE
+P37_B5_no_no_no_unknown.mzXML	2	Edison	NJ	8817	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	NE
+P37_A10_no_no_no_unknown.mzXML	2	Pataskala	OH	43062	yes_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P37_A11_yes_no_no_unknown.mzXML	2	Pataskala	OH	43062	yes_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P37_F6_no_no_no_unknown.mzXML	2	Pataskala	OH	43062	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P35_A1_no_no_no_unknown.mzXML	1	Norman	OK	73071	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_A10_no_no_yes_no.mzXML	1	McLoud	OK	74851	no_Hypocrea	no_Ophiocordyceps	Yes_testingTc	no_activityTc	South
+P35_A11_no_no_no_unknown.mzXML	1	McLoud	OK	74851	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_A12_no_no_no_unknown.mzXML	1	McLoud	OK	74851	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_A2_no_no_no_unknown.mzXML	1	Meeker	OK	74855	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_A3_no_no_no_unknown.mzXML	1	McLoud	OK	74857	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_A4_no_no_yes_no.mzXML	1	McLoud	OK	74851	no_Hypocrea	no_Ophiocordyceps	Yes_testingTc	no_activityTc	South
+P35_A5_no_no_no_unknown.mzXML	1	McLoud	OK	74851	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_A6_no_no_no_unknown.mzXML	1	McLoud	OK	74851	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_A7_no_no_no_unknown_190919183719.mzXML	1	Norman	OK	73071	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_A8_no_no_no_unknown.mzXML	1	McLoud	OK	74851	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_A9_no_no_no_unknown.mzXML	1	McLoud	OK	74851	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_B1_no_no_no_unknown.mzXML	1	Newalla	OK	74857	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_B10_no_no_yes_no.mzXML	1	Newalla	OK	74857	no_Hypocrea	no_Ophiocordyceps	Yes_testingTc	no_activityTc	South
+P35_B11_no_yes_yes_no.mzXML	1	Mustang	OK	73064	no_Hypocrea	yes_Ophiocordyceps	Yes_testingTc	no_activityTc	South
+P35_B12_no_no_no_unknown_190919191710.mzXML	1	McLoud	OK	74851	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_B2_no_no_no_unknown.mzXML	1	Newalla	OK	74857	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_B3_no_no_no_unknown.mzXML	1	McLoud	OK	74851	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_B4_no_no_yes_no.mzXML	1	McLoud	OK	74851	no_Hypocrea	no_Ophiocordyceps	Yes_testingTc	no_activityTc	South
+P35_B5_no_no_no_unknown.mzXML	1	Newalla	OK	74857	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_B6_no_no_no_unknown.mzXML	1	Choctaw	OK	73020	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_B7_no_no_no_unknown.mzXML	1	McLoud	OK	74851	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_B8_no_no_yes_no.mzXML	1	Newalla	OK	74857	no_Hypocrea	no_Ophiocordyceps	Yes_testingTc	no_activityTc	South
+P35_B9_no_no_no_unknown.mzXML	1	Harrah	OK	73045	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_C1_no_no_no_unknown.mzXML	1	Meeker	OK	74855	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_C10_no_yes_yes_yes.mzXML	1	Harrah	OK	73045	no_Hypocrea	yes_Ophiocordyceps	Yes_testingTc	yes_activityTc	South
+P35_C11_no_no_no_unknown.mzXML	1	Newalla	OK	74857	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_C12_no_no_no_unknown.mzXML	1	McLoud	OK	74851	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_C2_no_no_yes_no.mzXML	1	Harrah	OK	73045	no_Hypocrea	no_Ophiocordyceps	Yes_testingTc	no_activityTc	South
+P35_C3_no_no_no_unknown.mzXML	1	Harrah	OK	73045	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_C4_no_no_no_unknown.mzXML	1	McLoud	OK	74851	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_C5_no_no_no_unknown.mzXML	1	Harrah	OK	73045	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_C6_no_no_no_unknown.mzXML	1	Newalla	OK	74857	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_C7_no_no_no_unknown.mzXML	1	Choctaw	OK	73020	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_C9_no_no_no_unknown.mzXML	1	Newalla	OK	74857	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_D1_no_no_no_unknown.mzXML	1	Newalla	OK	74857	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_D2_no_yes_no_unknown.mzXML	1	Broken Arrow	OK	74011	no_Hypocrea	yes_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_D8_no_yes_no_unknown.mzXML	1	Norman	OK	73071	no_Hypocrea	yes_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_D9_no_no_no_unknown.mzXML	1	Norman	OK	73071	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_E12_no_no_no_unknown.mzXML	1	Oklahoma City	OK	73109	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_E7_no_no_yes_no.mzXML	1	Norman	OK	73071	no_Hypocrea	no_Ophiocordyceps	Yes_testingTc	no_activityTc	South
+P35_E8_no_no_no_unknown.mzXML	1	Oklahoma City	OK	73119	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_F1_no_no_no_unknown.mzXML	1	Oklahoma City	OK	73109	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_F11_no_no_no_unknown.mzXML	1	Oklahoma City	OK	73109	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_F12_no_no_no_unknown.mzXML	1	Oklahoma City	OK	73109	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_F2_no_no_no_unknown.mzXML	1	Midwest City	OK	73130	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_F3_no_no_no_unknown.mzXML	1	Oklahoma City	OK	73109	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_F4_no_no_no_unknown.mzXML	1	Oklahoma City	OK	73119	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_F5_no_no_no_unknown.mzXML	1	Midwest City	OK	73130	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_F6_no_yes_no_unknown.mzXML	1	Oklahoma City	OK	73109	no_Hypocrea	yes_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_F7_no_no_no_unknown.mzXML	1	Oklahoma City	OK	73109	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_F8_no_no_no_unknown.mzXML	1	Oklahoma City	OK	73119	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_F9_no_no_no_unknown.mzXML	1	Oklahoma City	OK	73119	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_G1_no_no_no_unknown.mzXML	1	Oklahoma City	OK	73109	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_G2_no_yes_no_unknown.mzXML	1	Oklahoma City	OK	73119	no_Hypocrea	yes_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_G3_no_no_no_unknown.mzXML	1	Oklahoma City	OK	73109	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_G7_no_no_no_unknown.mzXML	1	Oklahoma City	OK	73119	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_G8_no_no_no_unknown.mzXML	1	Oklahoma City	OK	73119	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P37_A7_no_no_no_unknown.mzXML	2	Norman	OK	73071	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P37_A8_no_no_no_unknown.mzXML	2	Norman	OK	73071	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P37_B2_no_no_no_unknown.mzXML	2	Norman	OK	73071	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P37_D10_no_no_no_unknown.mzXML	2	Oklahoma City	OK	73109	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P37_D11_no_no_no_unknown.mzXML	2	Oklahoma City	OK	73119	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P37_D12_no_no_no_unknown.mzXML	2	Oklahoma City	OK	73119	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P37_D8_no_yes_no_unknown.mzXML	2	Oklahoma City	OK	73119	no_Hypocrea	yes_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P37_D9_no_no_no_unknown.mzXML	2	Oklahoma City	OK	73119	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P37_E1_no_no_no_unknown.mzXML	2	Norman	OK	73071	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P37_E2_no_no_no_unknown.mzXML	2	Binger	OK	73009	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P37_E9_no_no_no_unknown.mzXML	2	Norman	OK	73071	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P37_F1_no_no_no_unknown.mzXML	2	Norman	OK	73071	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P37_F7_no_no_no_unknown.mzXML	2	Newalla	OK	74857	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P37_F8_no_no_no_unknown.mzXML	2	Newalla	OK	74857	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P37_F9_no_no_no_unknown.mzXML	2	Norman	OK	73071	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P37_G11_no_no_no_unknown.mzXML	2	Norman	OK	73071	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P37_G12_no_no_no_unknown_190919202341.mzXML	2	Norman	OK	73071	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P37_H1_no_no_no_unknown_190919195705.mzXML	2	Midwest City	OK	73130	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P37_H2_no_no_no_unknown.mzXML	2	Choctaw	OK	73020	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P37_H3_no_no_no_unknown.mzXML	2	Jones	OK	73049	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P37_H4_no_no_no_unknown.mzXML	2	Choctaw	OK	73020	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P37_H5_no_no_no_unknown.mzXML	2	Wellston	OK	74881	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P37_H6_no_no_no_unknown.mzXML	2	Meeker	OK	74855	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P37_H8_no_no_no_unknown.mzXML	2	Norman	OK	73071	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P37_H9_no_no_no_unknown.mzXML	2	Mustang	OK	73064	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_A11_no_no_no_unknown.mzXML	2	Jones	OK	73049	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_B1_no_no_no_unknown.mzXML	2	Norman	OK	73071	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_B10_no_no_no_unknown.mzXML	2	Binger	OK	73009	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_B11_no_no_no_unknown.mzXML	2	Binger	OK	73009	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_B12_no_no_no_unknown.mzXML	2	Binger	OK	73009	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_B2_no_no_no_unknown.mzXML	2	Norman	OK	73071	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_B3_no_no_no_unknown.mzXML	2	Midwest City	OK	73130	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_B4_no_no_no_unknown.mzXML	2	Norman	OK	73071	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_B5_no_no_no_unknown.mzXML	2	Norman	OK	73071	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_B9_no_no_no_unknown.mzXML	2	Binger	OK	73009	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_C10_no_no_no_unknown.mzXML	2	Binger	OK	73009	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_C11_no_no_no_unknown.mzXML	2	Binger	OK	73009	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_C12_no_no_no_unknown_190919211650.mzXML	2	Binger	OK	73009	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_C2_no_no_no_unknown.mzXML	2	Binger	OK	73009	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_C3_no_no_no_unknown.mzXML	2	Binger	OK	73009	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_C4_no_no_no_unknown.mzXML	2	Binger	OK	73009	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_C5_no_yes_no_unknown.mzXML	2	Binger	OK	73009	no_Hypocrea	yes_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_C6_no_no_no_unknown.mzXML	2	Binger	OK	73009	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_C7_no_no_no_unknown.mzXML	2	Binger	OK	73009	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_C8_no_no_no_unknown.mzXML	2	Binger	OK	73009	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_C9_no_no_no_unknown.mzXML	2	Binger	OK	73009	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_D1_no_no_no_unknown.mzXML	2	Binger	OK	73009	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_D10_no_no_no_unknown.mzXML	2	Choctaw	OK	73020	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_D11_no_no_no_unknown.mzXML	2	Tulsa	OK	74011	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_D12_no_no_no_unknown.mzXML	2	Norman	OK	73071	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_D2_no_no_no_unknown.mzXML	2	Binger	OK	73009	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_D3_no_no_no_unknown.mzXML	2	Binger	OK	73009	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_D4_no_no_no_unknown.mzXML	2	Binger	OK	73009	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_D5_no_no_no_unknown.mzXML	2	Binger	OK	73009	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_D6_no_no_no_unknown.mzXML	2	Binger	OK	73009	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_D7_no_no_no_unknown.mzXML	2	Binger	OK	73009	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P38_D8_no_no_no_unknown.mzXML	2	Newalla	OK	74857	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_E10_no_no_no_unknown.mzXML	1	Coos Bay	OR	97420	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	NorthWest
+P35_D10_no_no_no_unknown.mzXML	1	Hummelstown	PA	17036	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	NE
+P35_D11_yes_no_yes_no.mzXML	1	Etters	PA	17319	yes_Hypocrea	no_Ophiocordyceps	Yes_testingTc	no_activityTc	NE
+P35_D12_yes_no_yes_yes.mzXML	1	Gilbertsville	PA	19525	yes_Hypocrea	no_Ophiocordyceps	Yes_testingTc	yes_activityTc	NE
+P35_D3_no_no_yes_no.mzXML	1	Hummelstown	PA	17036	no_Hypocrea	no_Ophiocordyceps	Yes_testingTc	no_activityTc	NE
+P35_G9_no_yes_no_unknown.mzXML	1	Hummelstown	PA	17036	no_Hypocrea	yes_Ophiocordyceps	no_testingTc	unknown_activityTc	NE
+P35_H1_no_no_no_unknown_190919174403.mzXML	1	Etters	PA	17319	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	NE
+P37_A1_no_no_no_unknown_190919194348.mzXML	2	Collegeville	PA	19426	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	NE
+P37_B1_no_no_no_unknown.mzXML	2	Collegeville	PA	19426	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	NE
+P37_B6_no_no_no_unknown.mzXML	2	Limerick	PA	19468	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	NE
+P37_E11_no_no_no_unknown.mzXML	2	Limerick	PA	19468	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	NE
+P38_D9_no_no_no_unknown.mzXML	2	Norristown	PA	19403	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	NE
+QC_end.mzXML	QC	QC	QC	QC	QC	QC	QC	QC	QC
+QC_mid.mzXML	QC	QC	QC	QC	QC	QC	QC	QC	QC
+QC_mid_190918100902.mzXML	QC	QC	QC	QC	QC	QC	QC	QC	QC
+QC_mid_190918131434.mzXML	QC	QC	QC	QC	QC	QC	QC	QC	QC
+QC_mid_190918162005.mzXML	QC	QC	QC	QC	QC	QC	QC	QC	QC
+QC_mid_190918192542.mzXML	QC	QC	QC	QC	QC	QC	QC	QC	QC
+QC_mid_190918223112.mzXML	QC	QC	QC	QC	QC	QC	QC	QC	QC
+QC_mid_190919015002.mzXML	QC	QC	QC	QC	QC	QC	QC	QC	QC
+QC_mid_190919045533.mzXML	QC	QC	QC	QC	QC	QC	QC	QC	QC
+QC_mid_190919111949.mzXML	QC	QC	QC	QC	QC	QC	QC	QC	QC
+QC_mid_190919142520.mzXML	QC	QC	QC	QC	QC	QC	QC	QC	QC
+P37_G2_no_no_no_unknown.mzXML	2	Knoxville	TN	37932	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P37_G3_no_no_no_unknown.mzXML	2	Oak Ridge	TN	37830	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P37_G4_no_yes_no_unknown.mzXML	2	Oak Ridge	TN	37830	no_Hypocrea	yes_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P37_G5_no_no_no_unknown.mzXML	2	Oak Ridge	TN	37830	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P37_G6_no_no_no_unknown.mzXML	2	Oak Ridge	TN	37830	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P37_G7_no_no_no_unknown.mzXML	2	Oak Ridge	TN	37830	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P37_G8_no_no_no_unknown_190919213007.mzXML	2	Oak Ridge	TN	37830	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P37_G9_no_yes_no_unknown.mzXML	2	Knoxville	TN	37932	no_Hypocrea	yes_Ophiocordyceps	no_testingTc	unknown_activityTc	Central
+P35_E3_no_yes_no_unknown.mzXML	1	Spring	TX	77386	no_Hypocrea	yes_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P37_A5_no_no_no_unknown.mzXML	2	Spring	TX	77386	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	South
+P35_D4_no_no_no_unknown.mzXML	1	Virginia Beach	VA	23454	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P37_F10_no_no_no_unknown.mzXML	2	Virginia Beach	VA	23454	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	SouthEast
+P35_G10_no_no_no_unknown.mzXML	1	La Crosse	WI	54601	no_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	East North Central
+P37_B7_yes_no_no_unknown.mzXML	2	La Crosse	WI	54601	yes_Hypocrea	no_Ophiocordyceps	no_testingTc	unknown_activityTc	East North Central
